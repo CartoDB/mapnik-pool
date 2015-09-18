@@ -26,10 +26,10 @@
     "xtend": "~3.0.0"
   },
   "peerDependencies": {
-    "mapnik": ">= 1.4.2 < 4.0.0"
+    "mapnik": "https://github.com/CartoDB/node-mapnik/tarball/1.4.15-cdb2"
   },
   "devDependencies": {
     "tap": "~0.4.8",
-    "mapnik": ">= 1.4.2 < 4.0.0"
+    "mapnik": "https://github.com/CartoDB/node-mapnik/tarball/1.4.15-cdb2"
   }
 }

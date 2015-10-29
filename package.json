@@ -1,6 +1,6 @@
 {
   "name": "mapnik-pool",
-  "version": "0.1.1-cdb2",
+  "version": "0.1.1-cdb3",
   "description": "manage a pool of mapnik instances",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,6 @@
   },
   "devDependencies": {
     "tap": "~0.4.8",
-    "mapnik": "https://github.com/CartoDB/node-mapnik/tarball/1.4.15-cdb4"
+    "mapnik": "https://github.com/CartoDB/node-mapnik/tarball/1.4.15-cdb5"
   }
 }

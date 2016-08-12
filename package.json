@@ -1,6 +1,6 @@
 {
   "name": "mapnik-pool",
-  "version": "0.1.1-cdb6",
+  "version": "0.1.1-cdb7",
   "description": "manage a pool of mapnik instances",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,6 @@
   },
   "devDependencies": {
     "tap": "~0.4.8",
-    "mapnik": "cartodb/node-mapnik#1.4.15-cdb8"
+    "mapnik": "https://s3.amazonaws.com/cartodb-node-binary/mapnik/v1.4.15-cdb10/1.4.15-cdb10.tgz"
   }
 }
